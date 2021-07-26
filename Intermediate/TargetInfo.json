@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SMProject",
+			"Path": "E:\\Program Files (x86)\\Unreal Projects\\SMProject\\Source\\SMProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SMProjectEditor",
+			"Path": "E:\\Program Files (x86)\\Unreal Projects\\SMProject\\Source\\SMProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

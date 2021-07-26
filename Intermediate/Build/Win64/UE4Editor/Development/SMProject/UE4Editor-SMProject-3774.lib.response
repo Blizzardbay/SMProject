@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SMProject-3774.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Program Files (x86)\Unreal Projects\SMProject\Intermediate\Build\Win64\SMProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Program Files (x86)\Unreal Projects\SMProject\Intermediate\Build\Win64\UE4Editor\Development\SMProject\SMProject.cpp.obj"
+"E:\Program Files (x86)\Unreal Projects\SMProject\Intermediate\Build\Win64\UE4Editor\Development\SMProject\SMProjectGameModeBase.cpp.obj"
+"E:\Program Files (x86)\Unreal Projects\SMProject\Intermediate\Build\Win64\UE4Editor\Development\SMProject\SMProject.init.gen.cpp.obj"
+"E:\Program Files (x86)\Unreal Projects\SMProject\Intermediate\Build\Win64\UE4Editor\Development\SMProject\SMProjectGameModeBase.gen.cpp.obj"
+"E:\Program Files (x86)\Unreal Projects\SMProject\Intermediate\Build\Win64\UE4Editor\Development\SMProject\Default.rc2.res"
+/OUT:"E:\Program Files (x86)\Unreal Projects\SMProject\Intermediate\Build\Win64\UE4Editor\Development\SMProject\UE4Editor-SMProject-3774.lib"
+/INCLUDE:IMPLEMENT_MODULE_SMProject

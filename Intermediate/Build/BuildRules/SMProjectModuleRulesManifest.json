@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Program Files (x86)\\Unreal Projects\\SMProject\\Source\\SMProject\\SMProject.Build.cs",
+		"E:\\Program Files (x86)\\Unreal Projects\\SMProject\\Source\\SMProject.Target.cs",
+		"E:\\Program Files (x86)\\Unreal Projects\\SMProject\\Source\\SMProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

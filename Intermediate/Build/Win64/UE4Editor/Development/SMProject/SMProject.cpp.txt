@@ -1,0 +1,2 @@
+E:\Program Files (x86)\Unreal Projects\SMProject\Intermediate\Build\Win64\UE4Editor\Development\SMProject\Definitions.SMProject.h
+E:\Program Files (x86)\Unreal Projects\SMProject\Source\SMProject\SMProject.h

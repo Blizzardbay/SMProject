@@ -1,8 +1,2 @@
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-*.h.pch
-.vscode
-.vs
+*.ConcertClientConfig
+*.UdpMessagingSettings
